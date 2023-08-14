@@ -1,0 +1,14 @@
+{
+  "pages": [
+    {
+      "route": "/home",
+      "label": "home",
+      "icon_code": 58136
+    },
+    {
+      "route": "/cart",
+      "label": "cart",
+      "icon_code": 58780
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "categories": [
+    {
+      "id": "97f1bd77f03c46d9af8c83c24eb34e8e",
+      "category_name": "Night light",
+      "category_items": [
+        {
+          "id": "04a0ce13b38c49bc97018e47b204cb9b",
+          "product_name": "Rabbit Light",
+          "category_name": "Night light",
+          "product_tags": [
+            "rabbit",
+            "white",
+            "timer"
+          ],
+          "description": "Whimsical bunny-shaped light",
+          "price": "§30",
+          "discount_price": "§29.9",
+          "product_assets": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/69959526_010_b?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=720",
+            "https://images.urbndata.com/is/image/UrbanOutfitters/69959526_010_d?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=720",
+            "https://images.urbndata.com/is/image/UrbanOutfitters/69959526_010_e?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=720"
+          ],
+          "is_favorite": false
+        },
+        {
+          "id": "cba324e5ceca4147a1ccd72bf8e36d22",
+          "product_name": "Rocketship Neon Sign",
+          "category_name": "Night light",
+          "product_tags": [
+            "neon",
+            "blue",
+            "space"
+          ],
+          "description": "Spaceship-shaped neon sign",
+          "price": "§100",
+          "discount_price": "§99.9",
+          "product_assets": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/69466431_095_b?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=1080",
+            "https://images.urbndata.com/is/image/UrbanOutfitters/69466431_095_e?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=540",
+            "https://images.urbndata.com/is/image/UrbanOutfitters/69466431_095_f?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=540"
+          ],
+          "is_favorite": false
+        },
+        {
+          "id": "5ca82d8de45145ed90eaed26eb2591bd",
+          "product_name": "Smoko Giant Food Light",
+          "category_name": "Night light",
+          "product_tags": [
+            "yummy",
+            "glow",
+            "silicone"
+          ],
+          "description": "Smoko creates essentials to make your home and work life so much more fun.",
+          "price": "§40",
+          "discount_price": "§39.9",
+          "product_assets": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/53690913_072_b?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=540",
+            "https://images.urbndata.com/is/image/UrbanOutfitters/53690913_072_d?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=540",
+            "https://images.urbndata.com/is/image/UrbanOutfitters/53690913_072_e?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=540"
+          ],
+          "is_favorite": false
+        }
+      ]
+    },
+    {
+      "id": "6222dae8d451418bb72fb21ff327aea4",
+      "category_name": "Table Lamps",
+      "category_items": [
+        {
+          "id": "04893837da614ac1a6227bab5705a333",
+          "product_name": "Ares Table Lamp",
+          "category_name": "Table Lamps",
+          "product_tags": [
+            "metal",
+            "white",
+            "lamp"
+          ],
+          "description": "Inspired by Scandinavian décor, this table lamp elevates your accent lighting with its casual-yet-elegant design.",
+          "price": "§200",
+          "discount_price": "§199.9",
+          "product_assets": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/78917796_010_b?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=1080",
+            "https://images.urbndata.com/is/image/UrbanOutfitters/78917796_010_f?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=540",
+            "https://images.urbndata.com/is/image/UrbanOutfitters/78917796_010_g?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=540"
+          ],
+          "is_favorite": false
+        },
+        {
+          "id": "7539a9fb5fcf428391ab75d6de84bdce",
+          "product_name": "Zane Task Lamp",
+          "category_name": "Table Lamps",
+          "product_tags": [
+            "metal",
+            "desk",
+            "lamp"
+          ],
+          "description": "Light up your workspace with vintage-industrial style with this metal desk lamp featuring a structural silhouette and an exposed bulb that will illuminate any project.",
+          "price": "§100",
+          "discount_price": "§99.9",
+          "product_assets": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/78796166_001_b?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=960",
+            "https://images.urbndata.com/is/image/UrbanOutfitters/78796166_001_f?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=540",
+            "https://images.urbndata.com/is/image/UrbanOutfitters/78796166_001_e?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=540"
+          ],
+          "is_favorite": false
+        },
+        {
+          "id": "8d548310da364ea0a21bf5d8f4ad068f",
+          "product_name": "Confetti Glass Table Lamp",
+          "category_name": "Table Lamps",
+          "product_tags": [
+            "glass",
+            "warm",
+            "confetti"
+          ],
+          "description": "Light up your display with a confetti burst of color with this table lamp featuring a shaped glass vessel with a standing construction and open top.",
+          "price": "§120",
+          "discount_price": "§119.9",
+          "product_assets": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/57522369_100_b?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=960",
+            "https://images.urbndata.com/is/image/UrbanOutfitters/57522369_100_f?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=540",
+            "https://images.urbndata.com/is/image/UrbanOutfitters/57522369_100_e?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=540"
+          ],
+          "is_favorite": false
+        }
+      ]
+    },
+    {
+      "id": "104e870983bd462f8bfae57bb2b44ec1",
+      "category_name": "Сhandeliers",
+      "category_items": [
+        {
+          "id": "5ccdeadb4c6049d9a03fab509d0fb5fa",
+          "product_name": "UMAGE Eos Small Pendant Light",
+          "category_name": "Сhandeliers",
+          "product_tags": [
+            "soft",
+            "light",
+            "diffused"
+          ],
+          "description": "Exclusively using feathers that are a natural by-product of other industries, this sustainable lamp shade by UMAGE adds a posh, weightless accent that emits soft, diffused light!",
+          "price": "§260",
+          "discount_price": "§259.9",
+          "product_assets": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/51531911_010_b?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=540",
+            "https://images.urbndata.com/is/image/UrbanOutfitters/51531911_010_e?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=540",
+            "https://images.urbndata.com/is/image/UrbanOutfitters/51531911_010_f?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=540"
+          ],
+          "is_favorite": false
+        },
+        {
+          "id": "e44aaf0f97de46dfaa180a6fbd292bb1",
+          "product_name": "Nolfi Caged Bar Pendant Light",
+          "category_name": "Сhandeliers",
+          "product_tags": [
+            "gold",
+            "modern",
+            "light"
+          ],
+          "description": "Brighten up your space with a modern take on statement lighting with this caged metal pendant light.",
+          "price": "§80",
+          "discount_price": "§79.9",
+          "product_assets": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/46803425_070_b?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=540",
+            "https://images.urbndata.com/is/image/UrbanOutfitters/46803425_070_d?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=540",
+            "https://images.urbndata.com/is/image/UrbanOutfitters/46803425_070_f?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=540"
+          ],
+          "is_favorite": false
+        },
+        {
+          "id": "655ab54a8cf64ba880a48384780fff66",
+          "product_name": "Brio Cord Kit",
+          "category_name": "Сhandeliers",
+          "product_tags": [
+            "black",
+            "modern",
+            "iron"
+          ],
+          "description": "Essential cord kit for use with any of our light pendants, equipped with a wavy, fabric-wrapped cord and colorful-finished hardware.",
+          "price": "§40",
+          "discount_price": "§39.9",
+          "product_assets": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/69105401_001_b?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=540",
+            "https://images.urbndata.com/is/image/UrbanOutfitters/69105401_001_d?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=540",
+            "https://images.urbndata.com/is/image/UrbanOutfitters/69105401_001_f?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=540"
+          ],
+          "is_favorite": false
+        }
+      ]
+    }
+  ]
+}
